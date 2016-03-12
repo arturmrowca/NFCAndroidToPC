@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" 
+    >
+    <PreferenceScreen android:title="@string/pref_ead">
+     	<intent android:action="android.intent.action.EnterAccountDetailsActivity"/>  
+    </PreferenceScreen>
+    
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="app_autostart"
+        android:title="@string/app_autostart" />
+	
+    
+</PreferenceScreen>

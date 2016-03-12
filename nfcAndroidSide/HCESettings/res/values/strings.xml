@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HCE Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="aiddescription">aiddescription</string>
+    <string name="servicedesc">servicedesc</string>
+    <string name="title_activity_registring">Create Account</string>
+    <string name="image_desc"></string>
+
+</resources>
